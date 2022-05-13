@@ -2,7 +2,7 @@
 - 👀 I’m interested in: vibeo james, drumming, and cobing.
 - 🌱 I’m currently learning: DOM, HTML, CSS, ProcessingJS, Scratch, jQuery, and SQL.
 - 💞️ I’m looking to collaborate on: learning how to github.
-- 📫 How to reach me: however you can.
+- 📫 How to reach me: the JAYDAR STUDIOS discussions page.
 
 <!---
 jaydarschool/jaydarschool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
